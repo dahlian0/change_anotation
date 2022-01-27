@@ -1,5 +1,8 @@
 # change_anotation
-change your anotation class created by VOTT
+We can change your anotation class created by VOTT.
+This can be used when you want to merge classes or change classifications.
+- example
+<img width="1119" alt="スクリーンショット 2022-01-27 22 29 45" src="https://user-images.githubusercontent.com/48791086/151368775-d6b13f4e-8cb0-4612-9e02-9d09f27d84bd.png">
 
 # Installation
 You can easily install the libraries using the requirements.txt file.
