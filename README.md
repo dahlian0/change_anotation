@@ -34,4 +34,4 @@ Enter how you want to convert the class name
 The result will be saved in the Output file.
 
 # Authors
-Lisa SHINODA (Master Course Student at Kyoto University)
+Risa SHINODA (Master Course Student at Kyoto University)
