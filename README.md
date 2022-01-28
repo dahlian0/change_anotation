@@ -33,5 +33,8 @@ Enter how you want to convert the class name
 
 The result will be saved in the Output file.
 
+# Licence
+This software is released under the MIT License, see LICENSE.
+
 # Authors
 Risa SHINODA (Master Course Student at Kyoto University)
